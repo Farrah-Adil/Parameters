@@ -1,0 +1,15 @@
+C:\Parameters\Parameters\bin\Debug\net6.0\Parameters.exe
+C:\Parameters\Parameters\bin\Debug\net6.0\Parameters.deps.json
+C:\Parameters\Parameters\bin\Debug\net6.0\Parameters.runtimeconfig.json
+C:\Parameters\Parameters\bin\Debug\net6.0\Parameters.dll
+C:\Parameters\Parameters\bin\Debug\net6.0\Parameters.pdb
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.csproj.AssemblyReference.cache
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfoInputs.cache
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfo.cs
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.csproj.CoreCompileInputs.cache
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.dll
+C:\Parameters\Parameters\obj\Debug\net6.0\refint\Parameters.dll
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.pdb
+C:\Parameters\Parameters\obj\Debug\net6.0\Parameters.genruntimeconfig.cache
+C:\Parameters\Parameters\obj\Debug\net6.0\ref\Parameters.dll
